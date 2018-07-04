@@ -2,47 +2,47 @@ Social Media
 -------------------
 
 
-### [Bitcointalk] (scoial-media/bitcointalk) ###
+### [Bitcointalk] ###
 
 
 
 
-### [Discord] (scoial-media/discord) ###
+### [Discord] ###
 
 
 
 
-### [Facebook] (scoial-media/facebook) ###
+### [Facebook] ###
 
 
 
 
-### [Instagram] (scoial-media/instagram) ###
+### [Instagram] ###
 
 
 
 
-### [Medium] (scoial-media/medium) ###
+### [Medium] ###
 
 
 
 
-### [Promotion] (scoial-media/promotion) ###
+### [Promotion] ###
 
 
 
 
-### [Reddit] (scoial-media/reddit) ###
+### [Reddit] ###
 
 
 
 
-### [Telegram] (scoial-media/telegram) ###
+### [Telegram] ###
 
 
 
 
-### [Twitter] (scoial-media/twitter) ###
+### [Twitter] ###
 
 
 
